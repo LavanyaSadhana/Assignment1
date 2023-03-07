@@ -1,0 +1,30 @@
+.history-card-container {
+  display: flex;
+  list-style-type: none;
+}
+.time-accessed {
+  font-size: 12px;
+  font-family: 'roboto';
+  color: #475569;
+}
+.logo-url {
+  width: 10px;
+  height: 10px;
+}
+.title {
+  font-size: 12px;
+  font-family: 'roboto';
+  color: #475569;
+}
+.domain-url {
+  font-size: 11px;
+  font-family: 'roboto';
+  color: #64748b;
+}
+.delete-button {
+  border: 0px;
+}
+.delete-img {
+  width: 10px;
+  height: 10px;
+}
